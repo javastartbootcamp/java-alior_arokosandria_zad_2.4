@@ -21,6 +21,5 @@ public class Main {
         product3.show();
         product4.showWithoutCategory();
         System.out.println("Cena pierwszego produktu po obniżce " + specialOffer.priceWithBonus());
-
     }
 }
